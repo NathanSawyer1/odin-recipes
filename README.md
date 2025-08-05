@@ -1,1 +1,2 @@
 # odin-recipes
+This project is going to be a main page with an index and it will have links to multiple recipes. The first iteration of the project will be built without CSS and will be revisited in the future to add style to it.
