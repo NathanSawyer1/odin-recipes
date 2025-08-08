@@ -1,10 +1,20 @@
 * {
     background-color: gray;
 }
+
+img {
+    width: 275px;
+    height: auto;
+}
+
 h1 {
     font-size: 46px;
     text-align: center;
     color: #fdb;
+}
+
+h2 {
+    color: mistyrose;
 }
 
 a:hover {
@@ -26,4 +36,18 @@ li {
     padding: 15px 10px;
     margin: 8px auto;
     list-style: none;
+}
+
+.ingredients {
+    color: #FAECE2;
+    background: #383a3b;
+    border: 2px solid #383a3b;
+    border-radius: 14px;
+    text-align: justify;
+}
+
+.steps {
+    border: 2px solid transparent;
+    text-align: justify;
+    list-style:decimal;
 }
